@@ -1,5 +1,5 @@
 # front-end-study
-Este projeto é apenas um estudo iniciante de um site em HTML e CSS.
+## Este projeto é apenas um estudo iniciante de um site em HTML e CSS.
 
 ---
 
